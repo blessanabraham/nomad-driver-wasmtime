@@ -1,0 +1,15 @@
+# JetBrains stuff
+**/*.iml
+*.iws
+*.ipr
+.idea/
+
+# OS
+.DS_Store
+
+# Project specific
+build
+nomad-driver-wasmtime
+pkg/
+*.log
+.vagrant
